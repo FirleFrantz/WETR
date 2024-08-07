@@ -425,7 +425,9 @@
       "14PM": 1
     }
   },
-  "WeatherCodes": {
+    "Lang": {
+      "weather strings": {
+        "en": {
     "reference for walls": {
       "6Condition": "Cloudy",
       "27Condition": "Smoky",
@@ -443,7 +445,29 @@
       "12Condition": "Rain, Heavy Rain",
       "20Condition": "Windy, Breezy",
       "25Condition": "Dust"
-    },
+    }
+  },
+   "Lang": {
+      "weather strings": {
+        "de": {
+    "reference for walls": {
+      "6Condition": "Bewölkt",
+      "27Condition": "Rauchig",
+      "24Condition": "Nebel",
+      "2Condition": "Sternenlose Nacht",
+      "3Condition": "Meist klar",
+      "4Condition": "Teilweise bewölkt",
+      "5Condition": "Meist bewölkt",
+      "11Condition": "Nieselregen, Schauer",
+      "13Condition": "Gewitter",
+      "1Condition": "Sonnuger Tag",
+      "23Condition": "Tornado",
+      "18Condition": "Alle Schneebedingungen",
+      "15Condition": "Gefrierender Regen, Mixed Snow/Hail/Sleet Mixtures",
+      "12Condition": "Regen Starker Regen",
+      "20Condition": "Windig, Luftig",
+    }
+  },
     "de": {
       "BLOWING SNOW": 19,
       "BLUSTERY": 20,
