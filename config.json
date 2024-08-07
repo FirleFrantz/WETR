@@ -4,7 +4,7 @@
     "config": 1,
     "updateInterval": 240
   },
-  "root": "https://raw.githubusercontent.com/FirleFrantz/Shortcuts/main/Wetr/updater/config.json?token=GHSAT0AAAAAACVP5CFUOAPGZQBWVT2PMNVWZVROEYA",
+  "root": "https://github.com/FirleFrantz/Wetr",
   "Wallpaper Collections": {
     "url": "https://broank.s3.amazonaws.com/wallPacks",
     "pack type url": {
